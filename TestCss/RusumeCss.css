@@ -1,0 +1,19 @@
+strong{
+    color: white;
+    text-align: center;
+    text-indent: 21px;
+    text-shadow: 5px 5px 3px black;
+    line-height: normal;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    font-size: x-large;
+}
+h1{
+    background-color: aqua;
+}
+body{
+    background-color: darkgray;
+}
+.italic{
+    font-style: italic;
+}
